@@ -4,9 +4,9 @@ This is a data-anlysis project based on the Stellar Classification Dataset - SDS
 
 
 The project will be split into three sections: 
-1. **Representation**: data-analysis, data-imputation, model creation/ selection
-2. **Optimisation**: Feature selection, Hyper-paramater tuning, using training and validation set.
-3. **Evaluation**: final evaluation using the hold-out test set of the models unseen data.  
+1. **Representation**: data-analysis: using *matplotlib library, data-imputation: using KNN if needed.
+2. **Optimisation**: Feature selection using the *filter* corellation and using the library *statsmodel*, Hyper-paramater tuning, using training and validation set.
+4. **Evaluation**: final evaluation using the hold-out test set of the models unseen data. Other classification methods have been attenpted with high accuracy upto 98% using SVM and Random Forest. To make this project different i will attempt to use classes written from  https://github.com/python-engineer/MLfromscratch/tree/master/mlfromscratch to help with my understanding of the scructure of the algorithms. 
 
 Representation and optimisation my overlap.
 
